@@ -9,6 +9,8 @@
 }
 #character{
     width: 35px;
-    height: 70px;
+    height: 90px;
     background-color: red;
+    position: relative;
+    top: 310px;
 }
